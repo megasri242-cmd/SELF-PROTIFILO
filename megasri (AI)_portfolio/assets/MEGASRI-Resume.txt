@@ -1,0 +1,49 @@
+MEGASRI M
+WEB DEVELOPMENT FRESHER
+
+PROFESSIONAL SUMMARY
+Motivated computer applications postgraduate with foundational skills in Python,
+HTML, CSS, JavaScript and MySQL. Interested in gaining practical experience and
+contributing to useful web development projects.
+
+TECHNICAL SKILLS
+Python | HTML | CSS | JavaScript | MySQL
+
+EDUCATION
+Master of Computer Applications (MCA), 2024–2026
+Dhanalakshmi Srinivasan Engineering College, Perambalur
+CGPA: 8.37
+
+Bachelor of Computer Applications (BCA), 2021–2024
+Cauvery College for Women (Autonomous), Trichy
+CGPA: 8.21
+
+ACADEMIC PROJECTS
+1. Block Care: A Blockchain-Based Mobile Application for Secure Patient Consent
+   and Medical Data Access Control (2026)
+   Research focused on blockchain technology for secure patient consent and
+   controlled access to medical data.
+
+2. Smart Municipal Grievance & Relief System (2025)
+   Digital platform concept for complaint registration, tracking and AI-based
+   prioritization to support grievance resolution.
+
+3. Data Security in MNC Companies using Obfuscation (2023)
+   Explored data obfuscation methods to protect sensitive corporate information.
+
+CERTIFICATIONS
+Python Programming – HiCore Tech (June 14 – July 04, 2025)
+Diploma in Web Designing – MIT Computer Education, Pullambadi
+(March – May 2019; 3 months; Distinction)
+
+STRENGTHS
+Problem solving | Teamwork | Adaptability | Quick learning
+
+LINKEDIN
+https://www.linkedin.com/in/megasri-m-824a5834b
+
+GITHUB
+https://github.com/megasri242-cmd
+
+Note: This portfolio resume intentionally excludes personal phone number and
+home address. Add only contact details you are comfortable sharing publicly.
